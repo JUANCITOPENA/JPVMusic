@@ -1,7 +1,7 @@
 # JPVMusic
 Reproductor de Música Online
 
-![](CV-.png)
+![](images/MUSIC.png)
 
 URL: https://juancitopena.github.io/JPVMusic/
 
